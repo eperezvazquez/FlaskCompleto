@@ -40,6 +40,10 @@ if __name__ == '__main__':
 
 
 #probar
-# No Other/Other/7.42/7.33/7.42/7.25/7.33/0.0
-# Yes Guatemala/Bourbon/7.83/7.67/7.33/7.67/7.67/0.11
+#No Other/Other/7.42/7.33/7.42/7.25/7.33/0.0
+#https://5000-eperezvazqu-flaskcomple-yetbae2a3ep.ws-us61.gitpod.io/Other/Other/7.42/7.33/7.42/7.25/7.33/0.0
+#Yes Guatemala/Bourbon/7.83/7.67/7.33/7.67/7.67/0.11
+#https://5000-eperezvazqu-flaskcomple-yetbae2a3ep.ws-us61.gitpod.io/Guatemala/Bourbon/7.83/7.67/7.33/7.67/7.67/0.11
 #Prueba
+
+
