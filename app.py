@@ -5,13 +5,13 @@ import numpy as np
 
 app = Flask(__name__) # hace referencia al nombre del archivo
 
-@app.route('/')
-def hello_flask():
-    return 'Hello Flask'
+#@app.route('/')
+#def hello_flask():
+    #return 'Hello Flask'
 
-@app.route('/inicio')
-def show_home():
-    return render_template('index.html')
+#@app.route('/inicio')
+#def show_home():
+   #return render_template('index.html')
 
 @app.route('/<string:country>/<string:variety>/<float:aroma>/<float:aftertaste>/<float:acidity>/<float:body>/<float:balance>/<float:moisture>')
 def result(country, variety, aroma, aftertaste, acidity, body, balance, moisture):
